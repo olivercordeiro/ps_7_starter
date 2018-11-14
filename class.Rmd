@@ -1,0 +1,14 @@
+---
+title: "PS 7 Starter"
+author: "Oliver Cordeiro"
+date: "11/14/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+
+```
